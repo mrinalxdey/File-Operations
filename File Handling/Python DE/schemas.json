@@ -1,0 +1,54 @@
+{
+  "departments": [
+    { "column_name": "department_id", "data_type": "INT", "column_position": 1 },
+    { "column_name": "department_name", "data_type": "VARCHAR(100)", "column_position": 2 },
+    { "column_name": "location", "data_type": "VARCHAR(100)", "column_position": 3 },
+    { "column_name": "manager_id", "data_type": "INT", "column_position": 4 },
+    { "column_name": "created_at", "data_type": "DATETIME", "column_position": 5 },
+    { "column_name": "updated_at", "data_type": "DATETIME", "column_position": 6 }
+  ],
+  "categories": [
+    { "column_name": "category_id", "data_type": "INT", "column_position": 1 },
+    { "column_name": "department_id", "data_type": "INT", "column_position": 2 },
+    { "column_name": "category_name", "data_type": "VARCHAR(100)", "column_position": 3 },
+    { "column_name": "description", "data_type": "TEXT", "column_position": 4 },
+    { "column_name": "created_at", "data_type": "DATETIME", "column_position": 5 },
+    { "column_name": "updated_at", "data_type": "DATETIME", "column_position": 6 }
+  ],
+  "products": [
+    { "column_name": "product_id", "data_type": "INT", "column_position": 1 },
+    { "column_name": "category_id", "data_type": "INT", "column_position": 2 },
+    { "column_name": "product_name", "data_type": "VARCHAR(150)", "column_position": 3 },
+    { "column_name": "sku", "data_type": "VARCHAR(50)", "column_position": 4 },
+    { "column_name": "price", "data_type": "DECIMAL(10,2)", "column_position": 5 },
+    { "column_name": "stock_quantity", "data_type": "INT", "column_position": 6 },
+    { "column_name": "created_at", "data_type": "DATETIME", "column_position": 7 },
+    { "column_name": "updated_at", "data_type": "DATETIME", "column_position": 8 }
+  ],
+  "customers": [
+    { "column_name": "customer_id", "data_type": "VARCHAR(50)", "column_position": 1 },
+    { "column_name": "customer_unique_id", "data_type": "VARCHAR(50)", "column_position": 2 },
+    { "column_name": "customer_zip_code_prefix", "data_type": "INT", "column_position": 3 },
+    { "column_name": "customer_city", "data_type": "VARCHAR(100)", "column_position": 4 },
+    { "column_name": "customer_state", "data_type": "VARCHAR(10)", "column_position": 5 }
+  ],
+  "orders": [
+   { "column_name": "order_id", "data_type": "VARCHAR(50)", "column_position": 1 },
+  { "column_name": "customer_id", "data_type": "VARCHAR(50)", "column_position": 2 },
+  { "column_name": "order_status", "data_type": "VARCHAR(20)", "column_position": 3 },
+  { "column_name": "order_purchase_timestamp", "data_type": "DATETIME", "column_position": 4 },
+  { "column_name": "order_approved_at", "data_type": "DATETIME", "column_position": 5 },
+  { "column_name": "order_delivered_carrier_date", "data_type": "DATETIME", "column_position": 6 },
+  { "column_name": "order_delivered_customer_date", "data_type": "DATETIME", "column_position": 7 },
+  { "column_name": "order_estimated_delivery_date", "data_type": "DATETIME", "column_position": 8}
+  ],
+  "order_items": [
+    { "column_name": "order_item_id", "data_type": "INT", "column_position": 1 },
+    { "column_name": "order_id", "data_type": "INT", "column_position": 2 },
+    { "column_name": "product_id", "data_type": "INT", "column_position": 3 },
+    { "column_name": "quantity", "data_type": "INT", "column_position": 4 },
+    { "column_name": "unit_price", "data_type": "DECIMAL(10,2)", "column_position": 5 },
+    { "column_name": "discount", "data_type": "DECIMAL(5,2)", "column_position": 6 },
+    { "column_name": "created_at", "data_type": "DATETIME", "column_position": 7 }
+  ]
+}
