@@ -1,0 +1,26 @@
+[
+    {
+        "departmentId":2,
+        "departmentName":"Fitness"
+    },
+    {
+        "departmentId":3,
+        "departmentName":"Footwear"
+    },
+    {
+        "departmentId":4,
+        "departmentName":"Apparel"
+    },
+    {
+        "departmentId":5,
+        "departmentName":"Golf"
+    },
+    {
+        "departmentId":6,
+        "departmentName":"Outdoors"
+    },
+    {
+        "departmentId":7,
+        "departmentName":"Fan Shop"
+    }
+]

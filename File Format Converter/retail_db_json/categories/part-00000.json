@@ -1,0 +1,292 @@
+[
+    {
+        "categoryId":1,
+        "categoryDepartmentId":2,
+        "categoryName":"Football"
+    },
+    {
+        "categoryId":2,
+        "categoryDepartmentId":2,
+        "categoryName":"Soccer"
+    },
+    {
+        "categoryId":3,
+        "categoryDepartmentId":2,
+        "categoryName":"Baseball & Softball"
+    },
+    {
+        "categoryId":4,
+        "categoryDepartmentId":2,
+        "categoryName":"Basketball"
+    },
+    {
+        "categoryId":5,
+        "categoryDepartmentId":2,
+        "categoryName":"Lacrosse"
+    },
+    {
+        "categoryId":6,
+        "categoryDepartmentId":2,
+        "categoryName":"Tennis & Racquet"
+    },
+    {
+        "categoryId":7,
+        "categoryDepartmentId":2,
+        "categoryName":"Hockey"
+    },
+    {
+        "categoryId":8,
+        "categoryDepartmentId":2,
+        "categoryName":"More Sports"
+    },
+    {
+        "categoryId":9,
+        "categoryDepartmentId":3,
+        "categoryName":"Cardio Equipment"
+    },
+    {
+        "categoryId":10,
+        "categoryDepartmentId":3,
+        "categoryName":"Strength Training"
+    },
+    {
+        "categoryId":11,
+        "categoryDepartmentId":3,
+        "categoryName":"Fitness Accessories"
+    },
+    {
+        "categoryId":12,
+        "categoryDepartmentId":3,
+        "categoryName":"Boxing & MMA"
+    },
+    {
+        "categoryId":13,
+        "categoryDepartmentId":3,
+        "categoryName":"Electronics"
+    },
+    {
+        "categoryId":14,
+        "categoryDepartmentId":3,
+        "categoryName":"Yoga & Pilates"
+    },
+    {
+        "categoryId":15,
+        "categoryDepartmentId":3,
+        "categoryName":"Training by Sport"
+    },
+    {
+        "categoryId":16,
+        "categoryDepartmentId":3,
+        "categoryName":"As Seen on  TV!"
+    },
+    {
+        "categoryId":17,
+        "categoryDepartmentId":4,
+        "categoryName":"Cleats"
+    },
+    {
+        "categoryId":18,
+        "categoryDepartmentId":4,
+        "categoryName":"Men's Footwear"
+    },
+    {
+        "categoryId":19,
+        "categoryDepartmentId":4,
+        "categoryName":"Women's Footwear"
+    },
+    {
+        "categoryId":20,
+        "categoryDepartmentId":4,
+        "categoryName":"Kids' Footwear"
+    },
+    {
+        "categoryId":21,
+        "categoryDepartmentId":4,
+        "categoryName":"Featured Shops"
+    },
+    {
+        "categoryId":22,
+        "categoryDepartmentId":4,
+        "categoryName":"Accessories"
+    },
+    {
+        "categoryId":23,
+        "categoryDepartmentId":5,
+        "categoryName":"Men's Apparel"
+    },
+    {
+        "categoryId":24,
+        "categoryDepartmentId":5,
+        "categoryName":"Women's Apparel"
+    },
+    {
+        "categoryId":25,
+        "categoryDepartmentId":5,
+        "categoryName":"Boys' Apparel"
+    },
+    {
+        "categoryId":26,
+        "categoryDepartmentId":5,
+        "categoryName":"Girls' Apparel"
+    },
+    {
+        "categoryId":27,
+        "categoryDepartmentId":5,
+        "categoryName":"Accessories"
+    },
+    {
+        "categoryId":28,
+        "categoryDepartmentId":5,
+        "categoryName":"Top Brands"
+    },
+    {
+        "categoryId":29,
+        "categoryDepartmentId":5,
+        "categoryName":"Shop By Sport"
+    },
+    {
+        "categoryId":30,
+        "categoryDepartmentId":6,
+        "categoryName":"Men's Golf Clubs"
+    },
+    {
+        "categoryId":31,
+        "categoryDepartmentId":6,
+        "categoryName":"Women's Golf Clubs"
+    },
+    {
+        "categoryId":32,
+        "categoryDepartmentId":6,
+        "categoryName":"Golf Apparel"
+    },
+    {
+        "categoryId":33,
+        "categoryDepartmentId":6,
+        "categoryName":"Golf Shoes"
+    },
+    {
+        "categoryId":34,
+        "categoryDepartmentId":6,
+        "categoryName":"Golf Bags & Carts"
+    },
+    {
+        "categoryId":35,
+        "categoryDepartmentId":6,
+        "categoryName":"Golf Gloves"
+    },
+    {
+        "categoryId":36,
+        "categoryDepartmentId":6,
+        "categoryName":"Golf Balls"
+    },
+    {
+        "categoryId":37,
+        "categoryDepartmentId":6,
+        "categoryName":"Electronics"
+    },
+    {
+        "categoryId":38,
+        "categoryDepartmentId":6,
+        "categoryName":"Kids' Golf Clubs"
+    },
+    {
+        "categoryId":39,
+        "categoryDepartmentId":6,
+        "categoryName":"Team Shop"
+    },
+    {
+        "categoryId":40,
+        "categoryDepartmentId":6,
+        "categoryName":"Accessories"
+    },
+    {
+        "categoryId":41,
+        "categoryDepartmentId":6,
+        "categoryName":"Trade-In"
+    },
+    {
+        "categoryId":42,
+        "categoryDepartmentId":7,
+        "categoryName":"Bike & Skate Shop"
+    },
+    {
+        "categoryId":43,
+        "categoryDepartmentId":7,
+        "categoryName":"Camping & Hiking"
+    },
+    {
+        "categoryId":44,
+        "categoryDepartmentId":7,
+        "categoryName":"Hunting & Shooting"
+    },
+    {
+        "categoryId":45,
+        "categoryDepartmentId":7,
+        "categoryName":"Fishing"
+    },
+    {
+        "categoryId":46,
+        "categoryDepartmentId":7,
+        "categoryName":"Indoor\/Outdoor Games"
+    },
+    {
+        "categoryId":47,
+        "categoryDepartmentId":7,
+        "categoryName":"Boating"
+    },
+    {
+        "categoryId":48,
+        "categoryDepartmentId":7,
+        "categoryName":"Water Sports"
+    },
+    {
+        "categoryId":49,
+        "categoryDepartmentId":8,
+        "categoryName":"MLB"
+    },
+    {
+        "categoryId":50,
+        "categoryDepartmentId":8,
+        "categoryName":"NFL"
+    },
+    {
+        "categoryId":51,
+        "categoryDepartmentId":8,
+        "categoryName":"NHL"
+    },
+    {
+        "categoryId":52,
+        "categoryDepartmentId":8,
+        "categoryName":"NBA"
+    },
+    {
+        "categoryId":53,
+        "categoryDepartmentId":8,
+        "categoryName":"NCAA"
+    },
+    {
+        "categoryId":54,
+        "categoryDepartmentId":8,
+        "categoryName":"MLS"
+    },
+    {
+        "categoryId":55,
+        "categoryDepartmentId":8,
+        "categoryName":"International Soccer"
+    },
+    {
+        "categoryId":56,
+        "categoryDepartmentId":8,
+        "categoryName":"World Cup Shop"
+    },
+    {
+        "categoryId":57,
+        "categoryDepartmentId":8,
+        "categoryName":"MLB Players"
+    },
+    {
+        "categoryId":58,
+        "categoryDepartmentId":8,
+        "categoryName":"NFL Players"
+    }
+]
